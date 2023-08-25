@@ -1,3 +1,3 @@
 module github.com/be-edu/prose-mod2
 
-go 1.17
+go 1.19
